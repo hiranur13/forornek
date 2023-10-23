@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10a\forornek\forornek\bin\Debug\forornek.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10a\forornek\forornek\bin\Debug\forornek.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\forornek\forornek\bin\Debug\forornek.pdb
+C:\Users\User\Desktop\KORUMASIZ\10a\forornek\forornek\obj\Debug\forornek.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\forornek\forornek\obj\Debug\forornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\forornek\forornek\obj\Debug\forornek.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\forornek\forornek\obj\Debug\forornek.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\forornek\forornek\obj\Debug\forornek.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\forornek\forornek\obj\Debug\forornek.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\forornek\forornek\obj\Debug\forornek.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\forornek\forornek\obj\Debug\forornek.pdb
